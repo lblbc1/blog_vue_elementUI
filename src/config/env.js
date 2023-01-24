@@ -1,4 +1,4 @@
-let baseUrl = 'http://lblbc.cn/';
+let baseUrl = 'https://lblbc.cn/';
 
 export {
     baseUrl,
